@@ -34,4 +34,4 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 !["Shopping cart with added item"](./docs/shopping-art.png)
 
 ### Stripe Integration
-!["Stripe API integration"](./docs/stripe.png)
+!["Stripe API integration"](./docs/stripe-api.png)
